@@ -1,3 +1,3 @@
 # Auction APP
-Creating an auction application using language c .
+Creating an auction app using language c .
 creating a GUI using gtk+
